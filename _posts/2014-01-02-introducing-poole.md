@@ -35,6 +35,6 @@ Poole and its themes are by preference a forward-thinking project. In addition t
 
 ### Download
 
-Poole is developed on and hosted with GitHub. Head to the <a href="https://github.com/poole/poole">GitHub repository</a> for downloads, bug reports, and features requests.
+knarfbot is developed on and hosted with GitHub. Head to the <a href="https://github.com/killertofus/knarfbot">GitHub repository</a> for downloads, bug reports, and features requests.
 
 Thanks!
