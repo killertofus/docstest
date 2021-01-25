@@ -4,7 +4,7 @@
 permalink:           pretty
 
 # Setup
-title:               Home
+title:               BOTS made for streamers
 tagline:            
 url:                 https://killertofus.github.io/docstest/
 paginate:            1
@@ -19,11 +19,11 @@ sass:
 
 # About/contact
 author:
-  name:              killer tofus
-  url:               https://twitter.com/KillerofTofu
-  discord:             killertofu#4612
+  name:              Mark Otto
+  url:               https://twitter.com/mdo
+  email:             markdotto@gmail.com
 
 # Custom vars
 version:             2.0.0
 github:
-  repo:              https://github.com/killertofus/knarfbot
+  repo:              https://github.com/poole/poole
