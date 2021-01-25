@@ -19,11 +19,11 @@ sass:
 
 # About/contact
 author:
-  name:              Mark Otto
-  url:               https://twitter.com/mdo
-  email:             markdotto@gmail.com
+  name:              killer tofus
+  url:               https://twitter.com/KillerofTofu
+  discord:             killertofu#4612
 
 # Custom vars
 version:             2.0.0
 github:
-  repo:              https://github.com/poole/poole
+  repo:              https://github.com/killertofus/knarfbot
