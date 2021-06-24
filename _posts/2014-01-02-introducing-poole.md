@@ -1,3 +1,5 @@
+<!-- Add the stylesheet to the head -->
+<link rel="stylesheet" type="text/css" href="clippy.css" media="all">
 ---
 layout: post
 title: Introducing Poole
@@ -38,3 +40,16 @@ Poole and its themes are by preference a forward-thinking project. In addition t
 knarfbot is developed on and hosted with GitHub. Head to the <a href="https://github.com/killertofus/knarfbot">GitHub repository</a> for downloads, bug reports, and features requests.
 
 Thanks!
+<!-- jQuery 1.7+ -->
+<script src="jquery.1.7.min.js"></script>
+
+<!-- Clippy.js -->
+<script src="clippy.min.js"></script>
+
+<!-- Init script -->
+<script type="text/javascript">
+    clippy.load('Merlin', function(agent) {
+        // Do anything with the loaded agent
+        agent.show();
+    });
+</script>
